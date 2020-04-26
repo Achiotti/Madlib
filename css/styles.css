@@ -1,0 +1,27 @@
+#story {
+  display: none;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size; 40px;
+  border-style: groove;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-color: brown;
+}
+
+p {
+  font-family: monopace;
+  font-size: 25px;
+}
+
+body {
+  background-color: ivory;
+  margin-bottom: 300px;
+  margin-top:50px;
+}
+
+  
